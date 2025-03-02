@@ -1,0 +1,1453 @@
+{
+  "paths": {},
+  "points": {
+    "a3b58706-5b59-4a57-9e14-bf61fcb678ff": {
+      "coords": [
+        -73.840692,
+        40.725632
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "423d2f83-cb4d-4e60-80a3-9839790f2e05": {
+      "coords": [
+        -73.840351,
+        40.724968
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "56a40235-9fd9-487b-a47b-15cfab7b7c0a": {
+      "coords": [
+        -73.8393232,
+        40.7229725
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "545641b9-6f16-4e37-8116-080650a9fb8d": {
+      "coords": [
+        -73.838976,
+        40.722313
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "1dff3365-0f2f-4bb3-ac25-df47d61ade4f": {
+      "coords": [
+        -73.847507,
+        40.725133
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "740a9c24-891c-411a-a187-2d1d4f14f4c2": {
+      "coords": [
+        -73.845844,
+        40.725629
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "03687e11-5dc4-43e0-af39-e6be7ad81414": {
+      "coords": [
+        -73.8387079,
+        40.7262237
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "fe841014-86f1-4a36-94a2-8ad8bf399f29": {
+      "coords": [
+        -73.8383695,
+        40.7255605
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "95e15d83-73a3-47ad-84e1-861019148676": {
+      "coords": [
+        -73.8359575,
+        40.7216699
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "ac882e04-c8ca-46cb-95c2-d8a8c0d4a9cb": {
+      "coords": [
+        -73.8537953,
+        40.7269187
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "9487314e-dd03-465d-acbe-bb49bf06ab75": {
+      "coords": [
+        -73.8533274,
+        40.7108519
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "4463299f-ed7f-46d3-a396-4820fe11e845": {
+      "coords": [
+        -73.8350303,
+        40.7171292
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "3ff07cd7-2fba-4291-905b-3c6251a89c3a": {
+      "coords": [
+        -73.855192,
+        40.721056
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "fe02009c-c2bc-481e-871b-22a78cde0202": {
+      "coords": [
+        -73.844134,
+        40.722308
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "310bc8f3-6753-4543-8953-225341022069": {
+      "coords": [
+        -73.8458918,
+        40.7205729
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "72959fc8-7795-4387-93be-b47d064aefe0": {
+      "coords": [
+        -73.841899,
+        40.716246
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "843e9baf-c922-41db-9c56-9ffc616bbc18": {
+      "coords": [
+        -73.843524,
+        40.7136667
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "138356dc-bca6-4530-a2dc-e479c1de4294": {
+      "coords": [
+        -73.844819,
+        40.723635
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d93ab312-51bf-4f59-83da-b671fb49b27c": {
+      "coords": [
+        -73.842567,
+        40.724308
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "ff3c2475-d79e-404e-a0e3-37f38ba819f1": {
+      "coords": [
+        -73.846187,
+        40.726295
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "10c495de-3cef-4b35-9bdf-96fb00ccbdb2": {
+      "coords": [
+        -73.845504,
+        40.724965
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "0e46e389-671e-475a-811b-846dd3e4abf4": {
+      "coords": [
+        -73.84516,
+        40.7243
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "cebf499e-2c3c-4058-824f-67fe085a2c91": {
+      "coords": [
+        -73.844476,
+        40.722971
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "5edd218a-249a-4a8a-b24c-28b8ddc5c90c": {
+      "coords": [
+        -73.846871,
+        40.724558
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "00215604-07ed-4fc7-a5a3-7b66ac1f0ab7": {
+      "coords": [
+        -73.847099,
+        40.716508
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "92f3d557-491c-42b6-b9e5-27f909eed60c": {
+      "coords": [
+        -73.846964,
+        40.720959
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "0e1bded5-b47e-4dde-8a82-b3597f895234": {
+      "coords": [
+        -73.846544,
+        40.723889
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "29140094-7bfa-41a5-bb95-cd964982ebaa": {
+      "coords": [
+        -73.842909,
+        40.724971
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "1ea0f210-a01b-4159-9610-40cdb5201e1f": {
+      "coords": [
+        -73.8480758,
+        40.7213647
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "bb526092-6204-49e9-be0e-d5f72a4744ec": {
+      "coords": [
+        -73.841016,
+        40.717643
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "5e413aa4-69ed-4853-a344-8ec2a1c193f3": {
+      "coords": [
+        -73.841165,
+        40.717414
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "ac1478f1-55eb-4c23-a0df-b0200f7a8b25": {
+      "coords": [
+        -73.839809,
+        40.7195406
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "7936df2c-b521-4604-943e-04634310c3d2": {
+      "coords": [
+        -73.8474464,
+        40.7229222
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "56b77afd-de4e-4090-8158-9b5478c236c4": {
+      "coords": [
+        -73.8480076,
+        40.7228112
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "352ec69c-3b76-4c25-ae71-b08faff7e4e5": {
+      "coords": [
+        -73.8480974,
+        40.7257531
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "4a1d9a26-4ac4-4c45-9dc8-717fdff4e09b": {
+      "coords": [
+        -73.840558,
+        40.718369
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d17fc8cd-b5af-436f-924a-0c9e3a90a596": {
+      "coords": [
+        -73.8396561,
+        40.7197629
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "57bcf166-cc12-4c73-a935-2bd0b1e74dbc": {
+      "coords": [
+        -73.8427991,
+        40.721152
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "851531bf-df73-42d4-831b-5143cd17e444": {
+      "coords": [
+        -73.8507602,
+        40.7256906
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "37e6aa0c-f9b4-450f-a1fe-14cbe6157e25": {
+      "coords": [
+        -73.839742,
+        40.71964
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "74b05838-4789-4322-838a-89cf853c7bc8": {
+      "coords": [
+        -73.85367,
+        40.7270137
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "b6a28462-b931-4a31-8fea-6b2a05a2b653": {
+      "coords": [
+        -73.8472424,
+        40.7229761
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f7454bf2-9e53-402e-9289-76395d11155e": {
+      "coords": [
+        -73.8348857,
+        40.7172124
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "a5744cd1-1875-44cf-84bb-f92911814427": {
+      "coords": [
+        -73.8347446,
+        40.7172866
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "dff68489-49ce-40c7-a189-4935ef9bd6b5": {
+      "coords": [
+        -73.8535456,
+        40.7271327
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "3e6fb96a-cf97-4a27-9109-6f04d9f3589b": {
+      "coords": [
+        -73.8494984,
+        40.7238589
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "268f0f34-28e7-4efb-b58b-f863200c9b59": {
+      "coords": [
+        -73.8398893,
+        40.7194139
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "8c7091a7-2c86-4fde-8738-3b87697aa63b": {
+      "coords": [
+        -73.8430179,
+        40.7208209
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "237f2780-986a-4f48-aec0-abd247c2fe22": {
+      "coords": [
+        -73.837791,
+        40.7184913
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "01e1a8ca-0d7c-4ddf-8ae9-eb25ce92cebf": {
+      "coords": [
+        -73.8440872,
+        40.7212789
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "23b29247-810f-486d-bee5-768f3735f453": {
+      "coords": [
+        -73.8351577,
+        40.7170662
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "b6958208-5780-4420-81f8-1787e18e2004": {
+      "coords": [
+        -73.8429538,
+        40.7209179
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f4606010-718e-493f-8301-d74d364ac5ba": {
+      "coords": [
+        -73.8428695,
+        40.7210455
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d5d86156-c9a7-471e-9a2a-fe82872cad21": {
+      "coords": [
+        -73.84769,
+        40.7228641
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "85896af0-8f9a-4711-a5f1-e894585eb2e1": {
+      "coords": [
+        -73.846055,
+        40.737099
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "77bf401b-36a8-4b1b-bdfe-b9ae638410ae": {
+      "coords": [
+        -73.8538996,
+        40.7268396
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "748d2c8f-13f9-49ac-af67-95df1785ca2b": {
+      "coords": [
+        -73.8334732,
+        40.7183511
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "a85afec8-393a-49ae-8b78-a894ce88ce46": {
+      "coords": [
+        -73.8468892,
+        40.7386729
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f5699fd0-d11d-4b2a-9735-d12d39801ad1": {
+      "coords": [
+        -73.8470156,
+        40.7228606
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "2ae713dd-cd52-4051-9683-6e928dee71b8": {
+      "coords": [
+        -73.8469829,
+        40.7231137
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d0a399d7-c0ff-42af-bbe3-3698eb4bff58": {
+      "coords": [
+        -73.8470373,
+        40.7230222
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "18047bb4-3d1f-4aba-bca7-c9dbeecf3c7d": {
+      "coords": [
+        -73.8451695,
+        40.7195644
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "4a11a857-8ea0-4db5-8718-a66fc0b69078": {
+      "coords": [
+        -73.8490175,
+        40.723898
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "7917cfb9-ef5d-4402-9dcf-fcb7e50e896f": {
+      "coords": [
+        -73.8493147,
+        40.7239275
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "3b543e72-4414-4f03-b1a3-4d098a0ca29f": {
+      "coords": [
+        -73.847902,
+        40.71523
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "fc8732e0-16d9-405e-bb5a-57ab6173a8cb": {
+      "coords": [
+        -73.8495101,
+        40.7244442
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "b99ea718-132e-4f15-a002-75c857fb5c16": {
+      "coords": [
+        -73.8447665,
+        40.7221325
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "e7742d8f-9202-4513-88d6-0c4e674a0411": {
+      "coords": [
+        -73.8439839,
+        40.7223527
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "cb2cc8fd-657f-4d03-834e-efab82ba579d": {
+      "coords": [
+        -73.8440885,
+        40.7222193
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "5ab46084-1441-484a-9a42-d97e3e5c5f63": {
+      "coords": [
+        -73.8441918,
+        40.7224201
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d5e27728-b7e9-4d81-98c1-ec8aa2b17d13": {
+      "coords": [
+        -73.8446368,
+        40.7229211
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "4f84cacf-9ed6-48e2-bfdb-8101bb125199": {
+      "coords": [
+        -73.8444307,
+        40.7228831
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "98fc470b-ffbe-41eb-97ab-35ee78ccc853": {
+      "coords": [
+        -73.8445339,
+        40.7230832
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "e8b97030-ed06-418a-b907-bda9ebd6f920": {
+      "coords": [
+        -73.8447764,
+        40.7235524
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "a3c495b4-692a-4290-b27e-905b1632d063": {
+      "coords": [
+        -73.8448733,
+        40.7237409
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "59786acf-a8bd-481a-b6ff-af034fc0e4d6": {
+      "coords": [
+        -73.8449619,
+        40.7235928
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "53586d4b-97f3-4efa-928b-c1f6bec6b740": {
+      "coords": [
+        -73.8460801,
+        40.7224621
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f9827530-31da-454b-a3b8-5dfa0aafffe1": {
+      "coords": [
+        -73.8457677,
+        40.7224636
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "12cf21bb-e453-49ca-be41-4e979eeadab2": {
+      "coords": [
+        -73.8463436,
+        40.7222851
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f784d5c1-0f88-4abb-9527-d0f79b315785": {
+      "coords": [
+        -73.8462432,
+        40.7223817
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "804f7ba8-12a8-48be-b74f-def0c524f000": {
+      "coords": [
+        -73.8447116,
+        40.721989
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "2bc6469e-77e0-41e8-927e-fb408f15c6c2": {
+      "coords": [
+        -73.8447828,
+        40.7218795
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "811caea0-1d48-4f7f-bdfc-e86d7939c716": {
+      "coords": [
+        -73.8452366,
+        40.7219358
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "6874a7fc-e11d-42f7-bd50-d52a657a0a27": {
+      "coords": [
+        -73.8453025,
+        40.7218215
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "426a88c1-b560-46a9-8ec5-7be202141d10": {
+      "coords": [
+        -73.8454136,
+        40.7216752
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "19f5ef01-eed5-4887-886b-0a362c30b371": {
+      "coords": [
+        -73.8426482,
+        40.7211989
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "0bfcc772-7071-44d3-911c-d4e8d07345b7": {
+      "coords": [
+        -73.8431054,
+        40.7209872
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "6f92a6e7-ccbf-41c3-8929-03906643d964": {
+      "coords": [
+        -73.843195,
+        40.7208967
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "8ad1ca27-f5b4-47d3-9c24-8bf00cf66643": {
+      "coords": [
+        -73.8427132,
+        40.7209742
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "98805cea-76bb-492d-98e9-6edabba1da13": {
+      "coords": [
+        -73.8426379,
+        40.7210739
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "34ff3779-9103-4bf3-a132-ab9d39f2342a": {
+      "coords": [
+        -73.8426205,
+        40.7244117
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "c1fd678b-2999-432d-b559-af9e5a3fbd94": {
+      "coords": [
+        -73.8426932,
+        40.7242703
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "c09291f3-f9d4-4231-b777-a45cea2546ea": {
+      "coords": [
+        -73.8404853,
+        40.724928
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "41ef386d-fde3-46c8-a775-9a6874def68f": {
+      "coords": [
+        -73.8403039,
+        40.7248767
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "ac1e28bf-11b9-4435-95e5-caf748b9ae10": {
+      "coords": [
+        -73.8392755,
+        40.7228819
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "7a714d57-a51e-4941-a5a3-3b4fb5aa2458": {
+      "coords": [
+        -73.8394527,
+        40.7229341
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "4b48e532-d26c-4fb1-add0-134a3d87af89": {
+      "coords": [
+        -73.838931,
+        40.7222153
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "6c9e43f0-b485-447d-b746-220ba9150543": {
+      "coords": [
+        -73.8388523,
+        40.7223504
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "0b90ce10-b134-4b9a-b96f-207a5e14bd0a": {
+      "coords": [
+        -73.8360633,
+        40.721639
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "e681cd74-07b3-4e6f-8d82-590d2d99f37d": {
+      "coords": [
+        -73.8360586,
+        40.7217953
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "b5a38efb-863d-44b1-ad01-c1e45a6272b6": {
+      "coords": [
+        -73.8399484,
+        40.7193168
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "8e61dcb9-d23e-40ac-b1a0-24c23c3a6741": {
+      "coords": [
+        -73.8394868,
+        40.7196865
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "767358f8-3d7e-4cd5-b0a4-75370f167521": {
+      "coords": [
+        -73.8395675,
+        40.7195643
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "940f3070-d275-4adb-bcc0-1ebe2e9d9e31": {
+      "coords": [
+        -73.8399603,
+        40.7196085
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "22414bc5-08b4-41ff-880f-293f1475e355": {
+      "coords": [
+        -73.840047,
+        40.7194918
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "349787d2-d1a3-4736-abcf-5793c28abb84": {
+      "coords": [
+        -73.8430892,
+        40.7207068
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "c367fdcb-b02a-487f-8d9d-c006b5b88409": {
+      "coords": [
+        -73.8436544,
+        40.7215385
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "b21782dc-16df-4195-81af-75cfc33877d3": {
+      "coords": [
+        -73.8437411,
+        40.7214313
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d11a0e57-f7ab-420a-acc2-945facf04c1b": {
+      "coords": [
+        -73.844192,
+        40.7214816
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "fd729603-d2c5-4b30-a091-ac614fc23d7c": {
+      "coords": [
+        -73.8442413,
+        40.7213496
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "7b4d96a8-e1fd-46ad-a963-471752f33035": {
+      "coords": [
+        -73.8441524,
+        40.7211752
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "1412fa3d-2bf0-4c88-8bac-164ac5d29364": {
+      "coords": [
+        -73.8481138,
+        40.722934
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d4145676-c9e5-4d7e-a0a2-9e7324083935": {
+      "coords": [
+        -73.8481575,
+        40.7227888
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "07f4a989-07f1-4e66-92a0-46b247275b22": {
+      "coords": [
+        -73.8476886,
+        40.7230385
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "30ed60c2-02b7-4bed-b5ea-a89f21ae3b31": {
+      "coords": [
+        -73.8479813,
+        40.7229936
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f2118240-e0f5-47df-ba61-283c16f8709a": {
+      "coords": [
+        -73.8467859,
+        40.722916
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "5e34ddc5-bed7-45f3-899f-5f217b15fcaa": {
+      "coords": [
+        -73.8463984,
+        40.7239322
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "fb5197a6-3268-4ef2-a166-ed91159c83ba": {
+      "coords": [
+        -73.8465389,
+        40.723782
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "3815db4b-2664-45d3-a9b7-37b9409b7ac6": {
+      "coords": [
+        -73.8465715,
+        40.723995
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "26fbcf9d-b342-4a12-a8bd-2b5943c3cf5f": {
+      "coords": [
+        -73.8450212,
+        40.7243414
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "3d51b35a-e225-4e1e-ab86-7063d2eb0bb1": {
+      "coords": [
+        -73.8451279,
+        40.7242374
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "99d3a480-91ca-43b4-8935-c8f4bac14cf2": {
+      "coords": [
+        -73.845205,
+        40.7243831
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "c5eb5185-e739-4a8a-8f81-be9ae803ab1f": {
+      "coords": [
+        -73.8427931,
+        40.7250056
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "6bc5b9b5-5c8e-409d-a662-68b2809b72c2": {
+      "coords": [
+        -73.8429602,
+        40.7250704
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "847472ea-222b-47f1-801b-06c27b977af1": {
+      "coords": [
+        -73.8406523,
+        40.7255548
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "ebbfc2a0-693a-4ec2-9cb0-c00ece454682": {
+      "coords": [
+        -73.8405689,
+        40.7256687
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f0b512a0-aa33-4337-9a93-8efdb27cbbd2": {
+      "coords": [
+        -73.8461435,
+        40.7262105
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "0b428c4f-00b1-4e92-9919-cc02a2df1535": {
+      "coords": [
+        -73.8455584,
+        40.7250712
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "afbdeb5b-0145-4ac7-81e0-65c1bc2778f4": {
+      "coords": [
+        -73.8456481,
+        40.7249221
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "a3bb9ce1-8089-41ca-9ef5-286af7fdd932": {
+      "coords": [
+        -73.8454564,
+        40.7248729
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "3fdce902-73e8-41bd-8e13-bc08ab7d311e": {
+      "coords": [
+        -73.8456866,
+        40.725676
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "dfd0e3ed-dad3-406b-a00d-3eb935b3597f": {
+      "coords": [
+        -73.8457984,
+        40.7255399
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "620bd23a-30f8-4cf6-aa4f-39c75d075d44": {
+      "coords": [
+        -73.8459034,
+        40.7257444
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "08542323-9242-4b4c-b14a-59660b668274": {
+      "coords": [
+        -73.8473443,
+        40.7251815
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "510837b7-ed9d-4ac9-a29a-b94a0be78a2a": {
+      "coords": [
+        -73.8474242,
+        40.7250634
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "970e9236-5031-450f-8d53-503a904d5397": {
+      "coords": [
+        -73.8475983,
+        40.7252278
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "06125559-c39e-4cce-945d-3e56a800b243": {
+      "coords": [
+        -73.8480059,
+        40.725651
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "7652c980-ead7-4652-a8bd-91be455a8c71": {
+      "coords": [
+        -73.849635,
+        40.7243683
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f58e0259-1d56-44bf-a803-b42c84357705": {
+      "coords": [
+        -73.8501512,
+        40.7244148
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "9641f8f1-c74a-442e-a383-aae9fbb93c72": {
+      "coords": [
+        -73.8487368,
+        40.7239053
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "083b2b4b-e39a-4114-b799-45efe5c3504a": {
+      "coords": [
+        -73.8494762,
+        40.7245505
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "5130b1c3-8b42-4196-a233-0723ce487a96": {
+      "coords": [
+        -73.8506496,
+        40.7255918
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "99a4f1f3-c7d9-4074-acfe-77701aedfd25": {
+      "coords": [
+        -73.8510669,
+        40.7253653
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "46c74b11-48d9-493b-89c5-97cc005eb10c": {
+      "coords": [
+        -73.8507975,
+        40.7225784
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "181934cc-aa82-422a-b378-3d75d7230c15": {
+      "coords": [
+        -73.8480048,
+        40.7214774
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "dff218f9-8f83-4c4b-8fbd-2e2d9291cba0": {
+      "coords": [
+        -73.8482127,
+        40.7214147
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "933a1ac6-a042-42cc-a16e-c73d76416515": {
+      "coords": [
+        -73.8479503,
+        40.7213189
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "506db6ba-dea0-4e8c-b935-01a20e0fbb53": {
+      "coords": [
+        -73.8460515,
+        40.7206317
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "fe14d442-50f0-46b8-b93d-5c61657503d4": {
+      "coords": [
+        -73.8457363,
+        40.7205158
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "f48e365a-bc24-446d-a54a-a64aec4fa32e": {
+      "coords": [
+        -73.8458281,
+        40.7206727
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "3cdb5c99-9ee3-416f-8c35-dfd5927b0e34": {
+      "coords": [
+        -73.8450387,
+        40.720261
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "68424fe8-07f6-44e6-b455-c4ff03f3dc4d": {
+      "coords": [
+        -73.8445734,
+        40.7200913
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "e9422395-2891-4d62-97bd-561a8090aaff": {
+      "coords": [
+        -73.8448482,
+        40.7200708
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "2e620018-efc9-483d-be87-4804b79786ef": {
+      "coords": [
+        -73.8446916,
+        40.7203187
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d81634d6-51cd-49c2-b1b0-815957295918": {
+      "coords": [
+        -73.8407023,
+        40.7184421
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "66e767ff-1a3b-4a6b-b6e7-3c01f1b5d955": {
+      "coords": [
+        -73.8404891,
+        40.7184762
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "78598ab7-7b0b-4745-9b87-f942a01dc0ea": {
+      "coords": [
+        -73.8406189,
+        40.7182725
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "69347377-356f-43d6-a64a-8476b8f55e97": {
+      "coords": [
+        -73.8404153,
+        40.7182903
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "07e27e88-55fc-4533-afb1-8be571e97ce9": {
+      "coords": [
+        -73.8332861,
+        40.7163633
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "e204ae72-c568-47c5-aaae-8d10a26a4d0d": {
+      "coords": [
+        -73.8352516,
+        40.7169846
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "db1e93ad-d607-491c-adb7-5d6b949c5355": {
+      "coords": [
+        -73.8352585,
+        40.7171288
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "910a849d-b44d-49b8-bf45-5e59e0f762cb": {
+      "coords": [
+        -73.8351336,
+        40.7171989
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "badd0488-d3e8-4611-ad49-071138da4669": {
+      "coords": [
+        -73.8347934,
+        40.7171475
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "2e6d1fae-3b64-44df-a60e-db35a4d684a8": {
+      "coords": [
+        -73.8346338,
+        40.717215
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "fa30a44c-f5d3-400c-af8d-b8800b4ffd7b": {
+      "coords": [
+        -73.8372757,
+        40.7186986
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "724d7f00-9001-4eaf-9980-f54d3b1c3162": {
+      "coords": [
+        -73.8373591,
+        40.7185909
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "b6ae9497-f0fa-4945-9fba-ea5e491a55ea": {
+      "coords": [
+        -73.8376741,
+        40.7185811
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "07da5c8a-77eb-4425-9801-8500daac8c7e": {
+      "coords": [
+        -73.8378995,
+        40.7185397
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "81237699-840c-45c6-8af8-0f40e6e78cfc": {
+      "coords": [
+        -73.8378492,
+        40.7184002
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "53f00131-d666-490e-9412-90b4b60e897d": {
+      "coords": [
+        -73.8335676,
+        40.7182711
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "6e7a73e6-ae8f-4eb0-9551-473d09a704dd": {
+      "coords": [
+        -73.8335738,
+        40.7184144
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "d893e2ea-c67f-4043-a789-cbdabb33a9e4": {
+      "coords": [
+        -73.8468121,
+        40.7244751
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "9deab881-d0bf-4a52-a1e4-bb284ca78285": {
+      "coords": [
+        -73.8469589,
+        40.7246523
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "98b1f8ed-5ce9-4c07-bc21-a2fcde8afc90": {
+      "coords": [
+        -73.8470147,
+        40.7245137
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "de5b18ab-5630-40a9-a318-a3c4aba284fb": {
+      "coords": [
+        -73.8539615,
+        40.7267453
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "6c43799b-e219-4c76-adb0-a5a0696be26a": {
+      "coords": [
+        -73.84547,
+        40.7191027
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "bba5f843-2e26-40b7-8d06-3b2b1e342940": {
+      "coords": [
+        -73.8451502,
+        40.7193642
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "61c20ead-3144-4e5d-8f2b-ddb083ddc83b": {
+      "coords": [
+        -73.8470403,
+        40.7166003
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "5d66e33c-1262-4b39-9910-6b79ac68fd74": {
+      "coords": [
+        -73.8471433,
+        40.7164375
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "55e5d5c0-67dd-4308-a69e-de4d566381f0": {
+      "coords": [
+        -73.8472304,
+        40.7165566
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    },
+    "35bf59e9-30dd-49aa-b6a4-51d5077a5562": {
+      "coords": [
+        -73.8439018,
+        40.7217588
+      ],
+      "desc": "Светофор",
+      "type": "traffic_signals"
+    }
+  }
+}
