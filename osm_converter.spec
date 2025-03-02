@@ -35,4 +35,8 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+<<<<<<< HEAD
+=======
+    icon=['C:\\Users\\snkv2\\Downloads\\osm_converter.ico'],
+>>>>>>> 6b28176824155a0f15d8a20ece2c2549a436792a
 )
