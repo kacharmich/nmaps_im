@@ -12,7 +12,7 @@ BASE_FOLDER = "Приложения/Блокнот картографа Наро
 class OSMConverterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("OSM Конвертер")
+        self.root.title("Народная карта - IM")
         self.root.geometry("700x550")
         self.root.configure(bg="#1e1e1e")
         
